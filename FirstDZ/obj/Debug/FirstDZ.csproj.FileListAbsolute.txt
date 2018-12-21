@@ -1,0 +1,6 @@
+C:\Users\ww\source\repos\FirstDZ\FirstDZ\bin\Debug\FirstDZ.exe.config
+C:\Users\ww\source\repos\FirstDZ\FirstDZ\bin\Debug\FirstDZ.exe
+C:\Users\ww\source\repos\FirstDZ\FirstDZ\bin\Debug\FirstDZ.pdb
+C:\Users\ww\source\repos\FirstDZ\FirstDZ\obj\Debug\FirstDZ.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\FirstDZ\FirstDZ\obj\Debug\FirstDZ.exe
+C:\Users\ww\source\repos\FirstDZ\FirstDZ\obj\Debug\FirstDZ.pdb
